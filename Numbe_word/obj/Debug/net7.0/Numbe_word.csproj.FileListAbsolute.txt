@@ -1,0 +1,15 @@
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\bin\Debug\net7.0\Numbe_word.exe
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\bin\Debug\net7.0\Numbe_word.deps.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\bin\Debug\net7.0\Numbe_word.runtimeconfig.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\bin\Debug\net7.0\Numbe_word.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\bin\Debug\net7.0\Numbe_word.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.csproj.AssemblyReference.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.AssemblyInfoInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.AssemblyInfo.cs
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.csproj.CoreCompileInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\refint\Numbe_word.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\Numbe_word.genruntimeconfig.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Desktop\Assignment\Numbe_word\obj\Debug\net7.0\ref\Numbe_word.dll
